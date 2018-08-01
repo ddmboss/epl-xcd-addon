@@ -17,4 +17,5 @@ function epl_xcd_currency_addon( $currencies ) {
 	return $currencies;
 }
 add_filter('epl_get_currencies', 'epl_xcd_currency_addon');
+
 ?>
