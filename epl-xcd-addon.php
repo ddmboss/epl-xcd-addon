@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: EPL Eastern Caribbean Dollar Add-on
- * Plugin URI: https://www.delanomaloney.com/
+ * Plugin URI: https://github.com/ddmboss/epl-xcd-addon
  * Description: Adds the Eastern Caribbean Dollar currency to the Easy Property Listings plugin
  * Version: 1.0.1
- * Author: Delano Maloney
- * Author URI: https://www.delanomaloney.com/
+ * Author: ddmboss designs
+ * Author URI: https://www.ddmbossdesigns.com/
  * License: GPL3
  * Last Updated: 1st August 2018
  */
